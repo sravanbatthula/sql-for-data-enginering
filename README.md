@@ -77,7 +77,7 @@ Solving real-world business problems using SQL
 I am a Data Engineer with experience in Python, SQL, and building data pipelines. I am actively strengthening my SQL and analytics skills by working on real-world datasets and documenting my learning in a structured way.
 
 🔗 Connect With Me
-LinkedIn:🚀 https://www.linkedin.com/in/sravan-b-98358a17b/
+LinkedIn:🚀 https://www.linkedin.com/in/sravan-batthula-98358a17b/
 
 
 
